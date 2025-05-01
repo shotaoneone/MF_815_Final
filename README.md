@@ -22,8 +22,8 @@ classification algorithm next.
   word embedding dictionary from the mutual fund prospectus in the training
   set.~~   **<- Done! but need to review, also note that the last part (generating vectors) taking long to process**
   
-  3.3Design a strategy to build knowledge bases associated to aforementioned
-  three main mutual fund styles.
+ ~~3.3Design a strategy to build knowledge bases associated to aforementioned
+  three main mutual fund styles.~~ **<- Done**
   
   3.4Measure distance of each summary to each knowledge base. Design a
   classification algorithm to predict the investment strategy of each fund.
