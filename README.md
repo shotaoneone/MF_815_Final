@@ -16,11 +16,11 @@ To do
 3. Use the classification results from RAG as the “ground truth” to train your
 classification algorithm next.
 
-  3.1 ~~Split the data into training, validation, and testing.~~ Done! 4/29 
+  ~~3.1 Split the data into training, validation, and testing.~~ Done! 4/29 
   
-  3.2 Following the NLP application in class, use the skip-gram model to build a
+  ~~3.2 Following the NLP application in class, use the skip-gram model to build a
   word embedding dictionary from the mutual fund prospectus in the training
-  set.   **<- working on this right now**
+  set.~~   **<- Done! but need to review, also note that the last part (generating vectors) taking long to process
   
   3.3Design a strategy to build knowledge bases associated to aforementioned
   three main mutual fund styles.
