@@ -20,7 +20,7 @@ classification algorithm next.
   
   ~~3.2 Following the NLP application in class, use the skip-gram model to build a
   word embedding dictionary from the mutual fund prospectus in the training
-  set.~~   **<- Done! but need to review, also note that the last part (generating vectors) taking long to process
+  set.~~   **<- Done! but need to review, also note that the last part (generating vectors) taking long to process**
   
   3.3Design a strategy to build knowledge bases associated to aforementioned
   three main mutual fund styles.
